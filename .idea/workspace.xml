@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="array_primitiv.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array_method.kt" afterDir="false" />
+    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="array_method.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array2_demensi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Array_methodKt">
+  <component name="RunManager" selected="Kotlin.Array2_demensiKt">
     <configuration name="Array2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2Kt" />
+      <module name="lanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2_demensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2_demensiKt" />
       <module name="lanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Array2_demensiKt" />
         <item itemvalue="Kotlin.Array_methodKt" />
         <item itemvalue="Kotlin.Array_primitivKt" />
         <item itemvalue="Kotlin.ArrayKt" />
@@ -110,12 +118,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725942578352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="array_method.kt">
+      <created>1725943696139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725943696139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array" />
     <MESSAGE value="array_primitiv.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="array_primitiv.kt" />
+    <MESSAGE value="array_method.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="array_method.kt" />
   </component>
 </project>
