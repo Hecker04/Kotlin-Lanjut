@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     print('\n')
 // e.g. misalnya inisialisasi nilai dalam array dengan konstanta
 // Array int ukuran 5 dengan nilai [42, 42, 42, 42, 42]
-    val shortArray = ShortArray(5) { 42 }
+        val shortArray = ShortArray(5) { 42 }
     shortArray.forEach { print(it.toString() + ' ') }
     print('\n')
 // e.g inisialisasi nilai dalam array menggunakan lambda
