@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="Set.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="map.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726154292536</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="map.kt">
+      <created>1726289383666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726289383666</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +192,7 @@
     <MESSAGE value="mutableListOf.kt" />
     <MESSAGE value="arrayListOf.kt" />
     <MESSAGE value="Set.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set.kt" />
+    <MESSAGE value="map.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="map.kt" />
   </component>
 </project>
