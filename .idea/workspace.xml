@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="null.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsimath.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="fungsidengannilaikembali.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/pairnilaikembali.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,11 +271,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726374227309</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fungsimath.kt">
+      <created>1726374857530</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726374857530</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fungsitanpanilaikembali.kt">
+      <created>1726375013078</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726375013078</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fungsidengannilaikembali.kt">
+      <created>1726375127097</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726375127097</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="array" />
     <MESSAGE value="array_primitiv.kt" />
     <MESSAGE value="array_method.kt" />
     <MESSAGE value="array2_demensi.kt" />
@@ -299,6 +318,9 @@
     <MESSAGE value="break.kt" />
     <MESSAGE value="retrun.kt" />
     <MESSAGE value="null.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="null.kt" />
+    <MESSAGE value="fungsimath.kt" />
+    <MESSAGE value="fungsitanpanilaikembali.kt" />
+    <MESSAGE value="fungsidengannilaikembali.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="fungsidengannilaikembali.kt" />
   </component>
 </project>
