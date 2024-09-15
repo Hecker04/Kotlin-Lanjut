@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsimathKt">
+  <component name="RunManager" selected="Kotlin.FungsitanpanilaikembaliKt">
     <configuration name="BreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakKt" />
       <module name="lanjut" />
@@ -52,6 +52,13 @@
     </configuration>
     <configuration name="FungsimathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsimathKt" />
+      <module name="lanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FungsitanpanilaikembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsitanpanilaikembaliKt" />
       <module name="lanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_loopkalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While_loopkalkulatorKt" />
-      <module name="lanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsitanpanilaikembaliKt" />
         <item itemvalue="Kotlin.FungsimathKt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.RetrunKt" />
         <item itemvalue="Kotlin.BreakKt" />
-        <item itemvalue="Kotlin.While_loopkalkulatorKt" />
       </list>
     </recent_temporary>
   </component>
