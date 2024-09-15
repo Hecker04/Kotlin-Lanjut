@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="ranges.kt" />
+    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="percabangan.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/percabangan2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +42,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PercabanganKt">
-    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+  <component name="RunManager" selected="Kotlin.Percabangan2Kt">
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="lanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapKt" />
+    <configuration name="Percabangan2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percabangan2Kt" />
       <module name="lanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.PercabanganKt" />
         <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
-        <item itemvalue="Kotlin.ArrayListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726324776008</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="percabangan.kt">
+      <created>1726370966673</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726370966673</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +218,7 @@
     <MESSAGE value="Set.kt" />
     <MESSAGE value="map.kt" />
     <MESSAGE value="ranges.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ranges.kt" />
+    <MESSAGE value="percabangan.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="percabangan.kt" />
   </component>
 </project>
