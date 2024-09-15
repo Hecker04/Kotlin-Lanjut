@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="forperkalian.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whiledowhele.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="while_loopkalkulator.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +39,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.While_loopkalkulatorKt">
+  <component name="RunManager" selected="Kotlin.BreakKt">
+    <configuration name="BreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakKt" />
+      <module name="lanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForKt" />
       <module name="lanjut" />
@@ -52,13 +56,6 @@
     </configuration>
     <configuration name="ForperkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForperkalianKt" />
-      <module name="lanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KaalkulatorwhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KaalkulatorwhenKt" />
       <module name="lanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BreakKt" />
         <item itemvalue="Kotlin.While_loopkalkulatorKt" />
         <item itemvalue="Kotlin.WhiledowheleKt" />
         <item itemvalue="Kotlin.ForperkalianKt" />
         <item itemvalue="Kotlin.ForKt" />
-        <item itemvalue="Kotlin.KaalkulatorwhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726372764644</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="whiledowhele.kt">
+      <created>1726373113672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726373113672</updated>
+    </task>
+    <task id="LOCAL-00022" summary="while_loopkalkulator.kt">
+      <created>1726373304130</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726373304130</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,6 +270,8 @@
     <MESSAGE value="when.kt" />
     <MESSAGE value="kaalkulatorwhen.kt" />
     <MESSAGE value="forperkalian.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="forperkalian.kt" />
+    <MESSAGE value="whiledowhele.kt" />
+    <MESSAGE value="while_loopkalkulator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="while_loopkalkulator.kt" />
   </component>
 </project>
