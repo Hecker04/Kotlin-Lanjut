@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="break.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/retrun.kt" afterDir="false" />
+    <list default="true" id="3b434c03-8287-4ae6-be79-2f04bbab77c7" name="Changes" comment="null.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsimath.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NullKt">
+  <component name="RunManager" selected="Kotlin.FungsimathKt">
     <configuration name="BreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakKt" />
+      <module name="lanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FungsimathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsimathKt" />
       <module name="lanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhiledowheleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhiledowheleKt" />
-      <module name="lanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FungsimathKt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.RetrunKt" />
         <item itemvalue="Kotlin.BreakKt" />
         <item itemvalue="Kotlin.While_loopkalkulatorKt" />
-        <item itemvalue="Kotlin.WhiledowheleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726373817937</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="retrun.kt">
+      <created>1726374106185</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726374106185</updated>
+    </task>
+    <task id="LOCAL-00025" summary="null.kt">
+      <created>1726374227309</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726374227309</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,6 +297,8 @@
     <MESSAGE value="whiledowhele.kt" />
     <MESSAGE value="while_loopkalkulator.kt" />
     <MESSAGE value="break.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="break.kt" />
+    <MESSAGE value="retrun.kt" />
+    <MESSAGE value="null.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="null.kt" />
   </component>
 </project>
